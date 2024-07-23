@@ -18,4 +18,4 @@ Before running the code make sure to get these libraries installed
 
 # Results
 mAP score : 0.9860
-![image](https://github.com/xmonstabebex/object-detection/assets/89215956/a8643350-a442-4dd4-9c7d-0ffb3b398b4b)
+Can't share the prediction images for the dataset privacy policy
